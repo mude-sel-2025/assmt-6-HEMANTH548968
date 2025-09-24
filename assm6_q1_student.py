@@ -168,12 +168,12 @@ if __name__ == "__main__":
     # task2_histograms()
     
     # # print("Task 3: Averaging Effect")
-    task3_averaging()
+    # task3_averaging()
     
     # print("Task 4: Variance Scaling")
     # task4_variance_scaling()
     
     # print("Task 5: Mean vs Standard Deviation")
-    # task5_mean_std()
+    task5_mean_std()
 
     plt.show() # do not comment this out
